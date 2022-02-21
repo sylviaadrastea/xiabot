@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 ]
 const buttonMessage = {
     contentText: `\n*😴Sepertinya Anda Sudah Kecapekan*\n*Silahkan Istirahat dulu sekitar ${timers}*\n*Untuk bisa melanjutkan berburu*\n`,
-    footerText: '_Herman Botz_ © 2022', 
+    footerText: 'Sylvia Adrastea', 
     buttons: buttons,
     headerType: 1
 }
@@ -61,7 +61,7 @@ hsl = `╭─◩ *Hasil Berburu Kali Ini*
 │ *🐐 = [ ${zero4} ]*			 *🐗 = [ ${zero10} ]*
 │ *🐼 = [ ${zero5} ]*			 *🐖 = [ ${zero11} ]*
 │ *🐊 = [ ${zero6} ]*			 *🐓 = [${zero12} ]*
-╰──> _Herman Botz_ © 2022
+╰──> sylvia adrastea
 `
 global.DATABASE.data.users[m.sender].banteng += rbrb1
 global.DATABASE.data.users[m.sender].harimau += rbrb2
