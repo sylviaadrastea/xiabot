@@ -1,8 +1,8 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `chat owner wa.me//6283146208804
+let info = `chat owner wa.me//62857980707940
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🔥 *SC HERMAN BOTZ* 🔥', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', 'SYLBOT', 'status@broadcast')
 }
 handler.help = ['sc']
 handler.tags = ['tutor']
