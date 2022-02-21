@@ -365,7 +365,7 @@ Halo %name Saya *Xiaabot*
 
     externalAdReply: {
 
-                    title: `Herman Botz`,
+                    title: `sylvia adrastea`,
 
                     body: `${ucapanWaktu} ${name}`,
 
