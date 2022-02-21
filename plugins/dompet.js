@@ -18,7 +18,7 @@ let handler = async (m, { conn }) => {
 ├ *♥️ Nyawa (Health):* ${healt}
 ├ *💠 Level :* ${level}
 ├ *🍬 Role:* ${role}
-╰───> _Herman Botz_ © 2022
+╰───> sylvia adrastea
 `.trim()
     let mentionedJid = [who]
     m.reply(str)
